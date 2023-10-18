@@ -69,7 +69,6 @@ Before running this project, ensure you have the following:
 3. Analyze the results and gain valuable knowledge from the Netflix dataset.
 
 ## Authors
-[Mehrnaz Sadeghieh]
-[Helia Ghahraman]
+Mehrnaz Sadeghieh, Helia Ghahraman
 
 Thank you for exploring our Netflix Data Mining Project. We hope the insights and analyses provided here contribute to your understanding of the dataset and data mining techniques.
